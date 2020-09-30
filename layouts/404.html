@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{{ .Site.Title }}</title>
+    <link rel="stylesheet" type="text/css" href="./css/404.css" />
+    <link rel="shortcut icon" href="./assets/images/favicon.png">
+</head>
+
+<body>
+    <div class="main">
+        <img src="./images/404.png" class="img">
+        <a href="https://refun.js.org/" title="返回首页" class="back">&gt;&gt; 返回首页</a>
+    </div>
+    <script type="text/javascript">
+        function timedMsg() {
+            var t = setTimeout("window.location.replace('https://refun.js.org/');", 60); 设置跳转时间
+        }
+        timedMsg()
+    </script>
+</body>
+
+</html>

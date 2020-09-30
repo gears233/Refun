@@ -1,11 +1,11 @@
-baseURL = "http://example.org/"
+baseURL = "https://refun.js.org/"
 languageCode = "zh-CN"
-title = "WebStack网址导航 Hugo主题"
+title = "Refun"
 theme = "webstack-hugo"
 preserveTaxonomyNames = true
 disablePathToLower = true
 hasCJKLanguage = true
-copyright = ""
+copyright = "Refun"
 [params]
-  author = "iplaycode"
-  description = "Webstack Hugo"
+  author = "Gears"
+  description = "Refun 个人网址导航站"
