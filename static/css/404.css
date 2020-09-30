@@ -4,4 +4,4 @@ body{background:#f2f2f2}
 img.img{width:588px;margin:0 auto;margin-top:40px;display:block}
 a{color:#11b022;font-size:16px;margin:0 auto;text-decoration:none;margin-top:20px}
 a:hover{text-decoration:underline}
-a.back{display:block;overflow:hidden;text-indent:-999em;white-space:nowrap;width:123px;height:35px;background:url(../images/back404.png) no-repeat}
+a.back{display:block;overflow:hidden;text-indent:-999em;white-space:nowrap;width:123px;height:35px;background:url(../images/404.png) no-repeat}
